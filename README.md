@@ -89,9 +89,6 @@ Movie Recommendation/
 │   ├── preprocessing.py       # Data extraction & NLP text pipeline
 │   └── tmdb.py                # TMDB API client with retry & fallback
 │
-├── notebooks/                 # Exploratory data analysis & reference
-│   ├── movies.ipynb           # Model training and artifact generation
-│   └── nlp.ipynb              # Comprehensive NLP study guide
 │
 ├── assets/                    # Static assets & fallback graphics
 │   └── default-poster.png     # Clean fallback movie poster
