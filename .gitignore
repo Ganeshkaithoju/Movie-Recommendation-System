@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# notes
+notebooks
+movies.ipynb
+nlp.ipynb
+project_details.md
+architecture_diagrams.html
+api_flow.md
+
+# Configuration and secrets (NEVER commit secrets!)
+.env
+.streamlit/secrets.toml
+
+# Streamlit logs
+.streamlit/*.log
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+*.bak
